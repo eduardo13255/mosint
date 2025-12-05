@@ -4,7 +4,7 @@
 services:
   breach_directory_api_key: SET_YOUR_API_KEY_HERE
   emailrep_api_key: SET_YOUR_API_KEY_HERE
-  hunter_api_key: SET_YOUR_API_KEY_HERE
+  hunter_api_key: a62da02da5957601b46317eaf71774450a9939c4
   intelx_api_key: SET_YOUR_API_KEY_HERE
   haveibeenpwned_api_key: SET_YOUR_API_KEY_HERE
 
